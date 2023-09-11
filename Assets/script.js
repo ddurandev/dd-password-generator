@@ -14,7 +14,7 @@ if (wantsLength < 8) {
 }
 
 var wantsLowercase = confirm('Do you want lowercase letters?');
-var wantsUppercase = confirm('Do you want upper case letters?');
+var wantsUppercase = confirm('Do you want uppercase letters?');
 var wantsNumbers = confirm('Do you want numbers?');
 var wantsSpecialcharacters = confirm('Do you want special characters?');
 
